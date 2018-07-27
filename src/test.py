@@ -18,7 +18,7 @@ test = 'guide.py'
 # index = test.index('g', -1, -len(test))
 # print index
 # print test[index]
-print test.split('/')[-1]
+print (test.split('/')[-1])
 
 
 
